@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/alzheimers-detection-app/static/css/main.85fb9fd3.css",
-    "main.js": "/alzheimers-detection-app/static/js/main.8134884b.js",
-    "static/js/453.6fb087cd.chunk.js": "/alzheimers-detection-app/static/js/453.6fb087cd.chunk.js",
+    "main.css": "/alzheimers-detection-app/static/css/main.8cc4582c.chunk.css",
+    "main.js": "/alzheimers-detection-app/static/js/main.1c2cefa1.chunk.js",
+    "main.js.map": "/alzheimers-detection-app/static/js/main.1c2cefa1.chunk.js.map",
+    "runtime~main.js": "/alzheimers-detection-app/static/js/runtime~main.4509bbfd.js",
+    "runtime~main.js.map": "/alzheimers-detection-app/static/js/runtime~main.4509bbfd.js.map",
+    "static/js/2.2cb2b905.chunk.js": "/alzheimers-detection-app/static/js/2.2cb2b905.chunk.js",
+    "static/js/2.2cb2b905.chunk.js.map": "/alzheimers-detection-app/static/js/2.2cb2b905.chunk.js.map",
+    "static/js/3.1352c071.chunk.js": "/alzheimers-detection-app/static/js/3.1352c071.chunk.js",
+    "static/js/3.1352c071.chunk.js.map": "/alzheimers-detection-app/static/js/3.1352c071.chunk.js.map",
     "index.html": "/alzheimers-detection-app/index.html",
-    "main.85fb9fd3.css.map": "/alzheimers-detection-app/static/css/main.85fb9fd3.css.map",
-    "main.8134884b.js.map": "/alzheimers-detection-app/static/js/main.8134884b.js.map",
-    "453.6fb087cd.chunk.js.map": "/alzheimers-detection-app/static/js/453.6fb087cd.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.85fb9fd3.css",
-    "static/js/main.8134884b.js"
-  ]
+    "precache-manifest.eb8964698979119e534b1e6f493a3d1a.js": "/alzheimers-detection-app/precache-manifest.eb8964698979119e534b1e6f493a3d1a.js",
+    "service-worker.js": "/alzheimers-detection-app/service-worker.js",
+    "static/css/main.8cc4582c.chunk.css.map": "/alzheimers-detection-app/static/css/main.8cc4582c.chunk.css.map"
+  }
 }
